@@ -1,2 +1,4 @@
 *.csv
 *.zip
+notebook_source/.ipynb_checkpoints/*
+notebook_source/results/*
